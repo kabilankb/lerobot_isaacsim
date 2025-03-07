@@ -3,7 +3,7 @@
 ## Overview
 LeRobot is a robotic simulation project that integrates **NVIDIA Isaac Sim** with **MoveIt** for advanced motion planning and control. This project aims to simulate robotic manipulator tasks with high-fidelity physics and AI-driven motion planning.
 
-<!-- Uploading "Screenshot from 2025-03-07 19-12-30.png"... -->
+
 
 ## Features
 - **Isaac Sim Integration**: Leverages NVIDIA Isaac Sim for realistic physics-based simulation.
