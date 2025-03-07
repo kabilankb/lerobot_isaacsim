@@ -1,0 +1,32 @@
+[0.011s] Invoking command in '/home/kabilankb/isaac_lerobot_new/build/so_100_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble PS1=(ros_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/kabilankb/isaac_lerobot_new/build/so_100_arm -- -j20 -l20
+[0.062s] Invoked command in '/home/kabilankb/isaac_lerobot_new/build/so_100_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble PS1=(ros_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/kabilankb/isaac_lerobot_new/build/so_100_arm -- -j20 -l20
+[0.073s] Invoking command in '/home/kabilankb/isaac_lerobot_new/build/so_100_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble PS1=(ros_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --install /home/kabilankb/isaac_lerobot_new/build/so_100_arm
+[0.081s] -- Install configuration: ""
+[0.082s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch
+[0.082s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch/moveit_rviz.launch.py
+[0.082s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch/demo.launch.py
+[0.082s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch/rviz.launch.py
+[0.082s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch/spawn_controllers.launch.py
+[0.082s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch/rsp.launch.py
+[0.082s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch/static_virtual_joint_tfs.launch.py
+[0.082s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch/move_group.launch.py
+[0.083s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch/warehouse_db.launch.py
+[0.083s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch/setup_assistant.launch.py
+[0.083s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/launch/gz.launch.py
+[0.083s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/.setup_assistant
+[0.083s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/ament_index/resource_index/package_run_dependencies/so_100_arm
+[0.083s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/ament_index/resource_index/parent_prefix_path/so_100_arm
+[0.083s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/environment/ament_prefix_path.sh
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/environment/ament_prefix_path.dsv
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/environment/path.sh
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/environment/path.dsv
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/local_setup.bash
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/local_setup.sh
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/local_setup.zsh
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/local_setup.dsv
+[0.084s] -- Installing: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/package.dsv
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/ament_index/resource_index/packages/so_100_arm
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/cmake/so_100_armConfig.cmake
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/cmake/so_100_armConfig-version.cmake
+[0.084s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/so_100_arm/share/so_100_arm/package.xml
+[0.085s] Invoked command in '/home/kabilankb/isaac_lerobot_new/build/so_100_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble PS1=(ros_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --install /home/kabilankb/isaac_lerobot_new/build/so_100_arm

@@ -1,0 +1,43 @@
+[0.010s] Invoking command in '/home/kabilankb/isaac_lerobot_new/build/lerobot_so100': CMAKE_PREFIX_PATH=/home/kabilankb/isaac_lerobot_new/install/so_100_arm:/home/kabilankb/isaac_lerobot_new/install/lerobot_so100:/opt/ros/humble PS1=(ros_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/kabilankb/isaac_lerobot_new/build/lerobot_so100 -- -j20 -l20
+[0.056s] Invoked command in '/home/kabilankb/isaac_lerobot_new/build/lerobot_so100' returned '0': CMAKE_PREFIX_PATH=/home/kabilankb/isaac_lerobot_new/install/so_100_arm:/home/kabilankb/isaac_lerobot_new/install/lerobot_so100:/opt/ros/humble PS1=(ros_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --build /home/kabilankb/isaac_lerobot_new/build/lerobot_so100 -- -j20 -l20
+[0.058s] Invoking command in '/home/kabilankb/isaac_lerobot_new/build/lerobot_so100': CMAKE_PREFIX_PATH=/home/kabilankb/isaac_lerobot_new/install/so_100_arm:/home/kabilankb/isaac_lerobot_new/install/lerobot_so100:/opt/ros/humble PS1=(ros_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --install /home/kabilankb/isaac_lerobot_new/build/lerobot_so100
+[0.065s] -- Install configuration: ""
+[0.065s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/ament_index/resource_index/package_run_dependencies/lerobot_so100
+[0.065s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/ament_index/resource_index/parent_prefix_path/lerobot_so100
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/environment/ament_prefix_path.sh
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/environment/ament_prefix_path.dsv
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/environment/path.sh
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/environment/path.dsv
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/local_setup.bash
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/local_setup.sh
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/local_setup.zsh
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/local_setup.dsv
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/package.dsv
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/ament_index/resource_index/packages/lerobot_so100
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/cmake/lerobot_so100Config.cmake
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/cmake/lerobot_so100Config-version.cmake
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/package.xml
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch/moveit_rviz.launch.py
+[0.066s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch/demo.launch.py
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch/spawn_controllers.launch.py
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch/rsp.launch.py
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch/static_virtual_joint_tfs.launch.py
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch/__pycache__
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch/__pycache__/demo.launch.cpython-310.pyc
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch/move_group.launch.py
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch/warehouse_db.launch.py
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/launch/setup_assistant.launch.py
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config/kinematics.yaml
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config/so_100_arm.urdf.xacro
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config/so_100_arm.ros2_control.xacro
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config/initial_positions.yaml
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config/joint_limits.yaml
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config/ros2_controllers.yaml
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config/moveit.rviz
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config/moveit_controllers.yaml
+[0.067s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config/so_100_arm.srdf
+[0.068s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/config/pilz_cartesian_limits.yaml
+[0.068s] -- Up-to-date: /home/kabilankb/isaac_lerobot_new/install/lerobot_so100/share/lerobot_so100/.setup_assistant
+[0.068s] Invoked command in '/home/kabilankb/isaac_lerobot_new/build/lerobot_so100' returned '0': CMAKE_PREFIX_PATH=/home/kabilankb/isaac_lerobot_new/install/so_100_arm:/home/kabilankb/isaac_lerobot_new/install/lerobot_so100:/opt/ros/humble PS1=(ros_env) \[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ /usr/bin/cmake --install /home/kabilankb/isaac_lerobot_new/build/lerobot_so100
