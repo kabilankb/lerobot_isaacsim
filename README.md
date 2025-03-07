@@ -54,7 +54,3 @@ Feel free to open issues or submit pull requests to contribute to the project!
 
 ## License
 This project is licensed under the MIT License.
-
----
-Developed by **Kabilan KB** 🚀
-
