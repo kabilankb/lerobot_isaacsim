@@ -25,11 +25,8 @@ LeRobot is a robotic simulation project that integrates **NVIDIA Isaac Sim** wit
    git clone https://github.com/kabilankb/lerobot_isaacsim.git
    cd lerobot_isaacsim
    ```
-2. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
    ```
-3. **Build the ROS2 Workspace**
+2. **Build the ROS2 Workspace**
    ```bash
    colcon build --symlink-install
    source install/setup.bash
